@@ -1,7 +1,7 @@
 # AirlineManager
 #### web app that manage an airport:
 Directe Application for CRUD functions for Passengers, Pilots, Flights, and Airplanes
-##### Used technologies and tools :
+###### Used technologies and tools :
 1. Servlet, 
 2. JSP, 
 3. EJB, 
@@ -12,6 +12,7 @@ Directe Application for CRUD functions for Passengers, Pilots, Flights, and Airp
 7. jersey,
 8. Glassfish,
 9. Eclipse.
+###### Screenshots :
 ![Alt text](1.png?raw=true "Sign In")
 ![Alt text](2.png?raw=true "Add Pilote")
 ![Alt text](3.png?raw=true "Airplane List")
