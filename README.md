@@ -1,7 +1,7 @@
 # AirlineManager
-####web app that manage an airport.
+#### web app that manage an airport:
 Directe Application for CRUD functions for Passengers, Pilots, Flights, and Airplanes
-#####Used technologies and tools :
+##### Used technologies and tools :
 1. Servlet, 
 2. JSP, 
 3. EJB, 
