@@ -1,7 +1,17 @@
 # AirlineManager
-web app that manage an airport.
+####web app that manage an airport.
 Directe Application for CRUD functions for Passengers, Pilots, Flights, and Airplanes
-Used technologies Servlet, JSP, EJB, JPA, EclipseLink, Derby,JAX-RS, jersey, Glassfish, Eclipse.
+#####Used technologies and tools :
+1. Servlet, 
+2. JSP, 
+3. EJB, 
+3. JPA,
+4. EclipseLink,
+5. Derby,
+6. JAX-RS,
+7. jersey,
+8. Glassfish,
+9. Eclipse.
 ![Alt text](1.png?raw=true "Sign In")
 ![Alt text](2.png?raw=true "Add Pilote")
 ![Alt text](3.png?raw=true "Airplane List")
